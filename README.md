@@ -12,5 +12,5 @@ This is a Python implementation of the classic Minesweeper game.
 
 ## Run
 ```bash
-python3 minesweeper.py
+python3 main.py
 ```
